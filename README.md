@@ -1,5 +1,7 @@
 ## 👋 Hi there, I'm Han Xiaobu
 
+[![QQmail-nczzy1997@gmail.com]
+
 I am Han Xiaobu. I consider myself as a smart worker and determined team player, I am an experienced researcher and developer skilled in Game Work. and development their frameworks.
 <img width="140" align="right" src="https://www.svgrepo.com/show/235199/chip-ai.svg" />
 
