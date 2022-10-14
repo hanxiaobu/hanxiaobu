@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Han Xiaobu
 
-[![Hexo-Blog](https://img.shields.io/badge/Blog-blog.alumik.cn-EAEAEA?logo=hexo&logoColor=white&labelColor=0E83CD)](https://blog.alumik.cn/)
-[![Gmail-nczzy1997@gmail.com](https://img.shields.io/badge/Gmail-nczzy1997@gmail%2Ecom-EAEAEA?logo=gmail&logoColor=white&labelColor=D14836)](mailto:nczzy1997@gmail.com)
+[![Gmail-nczzy1997@gmail.com](https://img.shields.io/badge/Gmail-nczzy1997@gmail%2Ecom-EAEAEA?logo=gmail&logoColor=white&labelColor=D14836)](mailto:1255593130@qq.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlumiK&hide=Jupyter%20Notebook&layout=compact)
 <img width="140" align="right" src="https://www.svgrepo.com/show/235199/chip-ai.svg" />
