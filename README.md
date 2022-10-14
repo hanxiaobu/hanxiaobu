@@ -1,12 +1,12 @@
 ## 👋 Hi there, I'm Han Xiaobu
 I am Han Xiaobu. I consider myself as a smart worker and determined team player, I am an experienced researcher and developer skilled in Game Work. and development their frameworks.
 
-🌱 What do I do?
-✔️ I graduated from Heikeji University, Haerbin, China, with a master's degree in Software Engineering.
-✔️ I'm a fast learner looking for interesting research opportunities. I am waiting for a chance to build up my skills.
-✔️ My activities are much beyond my stream of education. I am involved in a lot of organizational works in college related to clubs, fests and workshops and helped in building many communities from scratch. Apart from this, I am a keen observer and always inquisitive to learn new things. I fit beautifully to the environment and add to the diversity of the team.
+## 🌱 What do I do?
+✔️ I graduated from Heikeji University, Haerbin, China, with a master's degree in Software Engineering.  
+✔️ I'm a fast learner looking for interesting research opportunities. I am waiting for a chance to build up my skills.  
+✔️ My activities are much beyond my stream of education. I am involved in a lot of organizational works in college related to clubs, fests and workshops and helped in building many communities from scratch. Apart from this, I am a keen observer and always inquisitive to learn new things. I fit beautifully to the environment and add to the diversity of the team.  
 
-💻 What languages do I use?
+## 💻 What languages do I use?
 
 <!--
 **hanxiaobu/hanxiaobu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
