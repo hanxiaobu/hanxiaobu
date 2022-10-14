@@ -1,5 +1,5 @@
-### 👋 Hi there,I'm Han Xiaobu
-
+### 👋 Hi there, I'm Han Xiaobu
+I am Han Xiaobu. I consider myself as a smart worker and determined team player, I am an experienced researcher and developer skilled in Game Work. and development their frameworks.
 <!--
 **hanxiaobu/hanxiaobu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
