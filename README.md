@@ -7,6 +7,7 @@ I am Han Xiaobu. I consider myself as a smart worker and determined team player,
 ✔️ My activities are much beyond my stream of education. I am involved in a lot of organizational works in college related to clubs, fests and workshops and helped in building many communities from scratch. Apart from this, I am a keen observer and always inquisitive to learn new things. I fit beautifully to the environment and add to the diversity of the team.  
 
 ### 💻 What languages do I use?
+C C++ Java Python JavaScript PHP LaTeX HTML5 CSS3 MySQL Powershell GNU Bash Markdown JSON
 
 <!--
 **hanxiaobu/hanxiaobu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
