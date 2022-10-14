@@ -1,11 +1,7 @@
 ## 👋 Hi there, I'm Han Xiaobu
 
-[![Gmail-nczzy1997@gmail.com](https://img.shields.io/badge/Gmail-nczzy1997@gmail%2Ecom-EAEAEA?logo=gmail&logoColor=white&labelColor=D14836)](mailto:1255593130@qq.com)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlumiK&hide=Jupyter%20Notebook&layout=compact)
-<img width="140" align="right" src="https://www.svgrepo.com/show/235199/chip-ai.svg" />
-
 I am Han Xiaobu. I consider myself as a smart worker and determined team player, I am an experienced researcher and developer skilled in Game Work. and development their frameworks.
+<img width="140" align="right" src="https://www.svgrepo.com/show/235199/chip-ai.svg" />
 
 ### 🌱 What do I do?
 
